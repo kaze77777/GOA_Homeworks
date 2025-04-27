@@ -24,5 +24,3 @@ print (name1,name2,name3,name4,name5)
 
 pet = "simba"
 print (pet)
-
-# string - ში ინახება სიტყვები,intejer - ში ინახება მთელი რიცხვები და float - ში ინახება ათწილადი რიცხვები
