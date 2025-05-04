@@ -1,9 +1,11 @@
 
-name = "hello, my name is nika"
-surname = "and my surname is gogokhia, i am"
+name = "nika"
+surname = "gogokhia"
 age = 15
-ss = "years old"
-print(name,surname,age,ss)
+
+print(name,surname,age,)
+
+print("hello my name is nika, my surname is gogokhia and i am 15 years old")
 
 
 x = 234
