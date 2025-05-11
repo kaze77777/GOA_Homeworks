@@ -7,7 +7,8 @@ s = (width)
 p = (height)
 
 print("s=(width+height)/p")
-print("p=(width+height)*2")
+print("p=(width+height)*2") 
+
 
 
 
