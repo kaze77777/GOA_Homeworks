@@ -13,20 +13,16 @@ while num > 0:
 
 #არის ციკლი Python-ში, რომელიც ასრულებს კოდის ბლოკს მანამ, სანამ პირობა მართალია 
 
-# user_password = input("enter password: ")
-# correct_password = "python123"
-# while user_password != correct_password:
-#     print('try again')
-#     user_password = input("enter password: ")
-# print("correct")
+user_password = input("enter password: ")
+correct_password = "python123"
+while user_password != correct_password:
+    print('try again')
+    user_password = input("enter password: ")
+print("correct")
 
 
 
-# num1 = int(input("enter num: "))
-# num2 = 0
-# while num2 != num1:
-#     print(num2)
-#     num2 += 1
+
 
 
 n = int(input("enter number n: "))
