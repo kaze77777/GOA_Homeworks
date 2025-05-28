@@ -7,8 +7,8 @@ for i in range(number + 1):
 
 
 number = int(input("enter number: "))
-
 i = 0
+
 while i <= number:
     print(i)
     i += 1
